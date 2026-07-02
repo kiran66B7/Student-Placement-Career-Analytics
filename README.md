@@ -143,8 +143,11 @@ Student_Placement_Career_Analytics.ipynb
 https://github.com/kiran66B7
 
 ### LinkedIn
-
 https://www.linkedin.com/in/kiran-thalari-8987572b0
+Mallannagari Ajay
+www.linkedin.com/in/
+
+
 
 ---
 
